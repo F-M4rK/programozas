@@ -1,0 +1,20 @@
+I. https://docs.python.org/3/tutorial/errors.html 8.1, 8.2, 8.3 olvasni
+Válaszolj:
+1. Mi a különbség a szintaktikaihiba és a kivételek között?
+
+Az a külömbség hogy
+
+2. Sorolj fel néhány kivételt a pythonból!
+
+TypeError
+KeyboardInterrupt 
+NameError
+RuntimeError
+
+II.https://www.w3schools.com/python/python_try_except.asp <- tanulmányozzd, gyakorolj benne: (Az első 5 try it yourself-eset)
+
+1. Készíts egy programot, amelyben beolvasol egy fájlból! Alkalmazz kivételkezelést arra, ha nem lenne olyan nevű fájl!
+
+2. Készíts egy programot, amely egy szám négyzetgyökét számítja ki és beolvas egy valós számot! Kezeld a helyzetet, ha negatív számot ad meg a felhasználó (annak nem lehet gyökét számolni a valós számok halmazában)
+Kezeld, ha nem számot ad meg a felhasználó!
+

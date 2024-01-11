@@ -1,0 +1,4 @@
+3:00-5:00;Isten igéjének olvasása
+5:00-6:00;torna
+6:00-7:00;reggeli
+7:00-7:30;kutyaséptáktatás
