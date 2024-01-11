@@ -1,0 +1,3 @@
+Alfa-hegy;20;cm
+Béta-hegy;25;cm
+gamma-hegy;0,5;m
