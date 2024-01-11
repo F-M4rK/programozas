@@ -1,0 +1,10 @@
+Kinabalu-hegy,4095
+Amfiteátrum-hegy,3482
+Huang-hegy,1864
+Mount Cook,3754
+Monte Fitz Roy,3375
+Kailash-hegy,6638
+Banff hegyei,3618
+K2,8611
+Matterhorn,4478
+Mount Everest,8848

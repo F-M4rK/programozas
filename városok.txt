@@ -1,0 +1,3 @@
+Magyarország;Budapest
+Románia;Bucharest
+Franciaország;Párizs

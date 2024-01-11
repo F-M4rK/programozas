@@ -1,0 +1,2 @@
+Válassz 3 témát készíts mindegyikből 3 soros, egyforma szerkezetű fájlt.
+Készíts 3 programot, amelyben beolvasod ezen fájlok adatait egy listában listába.

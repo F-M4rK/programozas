@@ -1,0 +1,3 @@
+Magyarország;1
+Legyelország;-1
+Németország;0
