@@ -1,0 +1,48 @@
+jelek=[["a",["b","c"]],["d","e","f","g","h","i","j","k","l","o"],["p","q","r","s","t","u"],"v","x","y","z"," "]
+1. Fejtsd meg (A magyar ékezetes betűk az ékezetmentes megfelelőivel vannak):
+
+jelek[0][0]+jelek[-1]+jelek[1][-3]+jelek[2][2]+jelek[1][-1]+jelek[1][7]+jelek[1][9]+jelek[1][0]+jelek[1][5]+jelek[1][-2]+jelek[1][-1]+jelek[1][-3]+jelek[-1]+jelek[2][-3]+jelek[-2]+jelek[1][1]+jelek[-6][-6]+jelek[1][1]+jelek[-7][7]
+
+megfejtés: 'a krokodilok szepek'
+
+2. Kódold az 1-es mintájára a következő szöveget:
+A ceruzák hegyesek.
+||
+a ceruzak hegyesek
+
+a kódolás:jelek[0][1][1]+jelek[1][1]+jelek[2][2]+jelek[2][5]+jelek[6][0][0]+jelek[0][0]+jelek[1][-3]+jelek[-1]+jelek[1][4]+jelek[1][1]+jelek[1][3]+jelek[-3]+jelek[1][1]+jelek[2][3]+jelek[1][1]+jelek[1][-3]
+
+
+3. Mi lesz az eredménye?
+a=[1,2,3]
+b=[11,12,13,14]
+
+a+b=? [1,2,3,11,12,13,14]
+b+a=? [11,12,13,14,1,2,3,]
+
+
+
+f1=a+[b]
+f2=[a]+b
+f3=[a]+[b]
+
+f1=? [1,2,3, [11,12,13,14]]
+f2=? [[1,2,3],11,12,13,14]
+f3=? [[1,2,3,],[11,12,13,14]]
+
+
+f1[0]=? 1
+f1[-1]=? [11, 12, 13, 14]
+f2[-1]=? 14
+f3[0]=? [1,2,3]
+f3[-1]=? [11, 12, 13, 14]
+
+
+Hogyan kapod meg  csak f1 felhasználásával a 12-t?
+válasz: f1[3][1]
+
+Hogyan kapod meg  csak f2 felhasználásával a 12-t?
+válasz: f2[2]
+
+
+
