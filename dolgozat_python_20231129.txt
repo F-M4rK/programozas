@@ -1,0 +1,26 @@
+1. Készíts egy fgy nevű függvényt, amely függvényértékként kiírja a képernyőre a paraméterben megadott szám 4-edének a négyzetgyökénél 3-mal kisebb számot!
+
+2. Készíts egy kiv nevű eljárást, amely egy globálisan létrehozott y=[3,6,11,2,8,34,-2,4] listából kiválogatja ( kiírja a képernyőre) az 9-nél nagyobbakat, az összeset!
+
+3.
+Mit ír ki a következő program?
+j=72
+while j<91:
+	print("ciklusban")
+	j=j+4
+print(j)
+
+4. Javítsd ki a 3. feladat programját egy karakter beírásával vagy megváltoztatásával úgy, hogy ne írja ki, hogy "ciklusban"! A program ne legyen hibás!
+
+5. Készítsd el a következő programot! A program kérjen be egy szót a felhasználótól:
+Ha a tömeg szót adta meg a felhasználó, akkor kérjen be egy számot, ami a felhasználó testének tömegének az értéke. Ha a tömeg nagyobb mint 60, akkor írja ki, hogy "Le kell fogynod!", egyébként ne csináljon semmit.
+
+Ha a sorozat szót adja meg, akkor írja ki 7-esével az egészeket 30 és 142 között a képernyőre!
+
+Ha a tszám szöveget adja meg, akkor kérjen be egy tizedes törtet, majd 3 tizedesjegyre kerekítve írja ki a képernyőre
+
+minden egyéb esetben írja a képernyőre a ["tömeg","sorozat","tszám"] lista elemeit, majd fűzze hozzá ": ezekből kellett volna választanod".
+
+MEGJEGYZÉS AZ 5-ÖS FELADATHOZ: Ha túl bonyolultnak tűnik ez, s nem tudnád megcsinálni, akkor az egyes rész teendőket külön programokként írd meg, ahogy kényelmes. Az így készült fájlokat nevezd feladat5a.py, feladat5b.py, ...stb. módon.
+
+Mindenképp próbálkozz a részekkel, ha a teljes egész nem is menne!
