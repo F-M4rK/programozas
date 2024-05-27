@@ -1,0 +1,26 @@
+#Python feladat
+Class Látogatás:
+    def __init__ (self,város, létszám,dátum): 
+           self.város=város
+           self.létszám=létszám
+           self.dátum=dátum
+
+
+Látogatások=[]
+f=open(“ l.txt”, “r”, encoding=“utf-8”)
+for sor in f:
+     kislista=sor[:-1].split(“:”)
+          Látogatásokpéldány=Látogatás(kislista[1]+ kislista[2]+kislista[3])
+          Látogatások.append(Látogatásokpéldány)
+f.close()
+
+összegzés=0
+for i in range(0,len(Látogatások))
+   összegzés= összegzés+ Látogatások[i].létszám
+print(összegzés)
+
+#létszámok összege másképpen
+létszámok=[]
+for i in range(0,len(Látogatások))
+       létszámok.append(Látogatások[i].létszám)
+print(sum(létszámok))
