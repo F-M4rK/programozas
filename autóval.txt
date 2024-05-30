@@ -1,0 +1,10 @@
+Honda|CIV-123|János|Budapest
+Ford|FST-789|Péter|Hamburg
+Nissan|NSN-456|Zoltán|Brüsszel
+BMW|BMW-321|Gábor|Düsseldorf
+Audi|AUD-654|László|Róma
+Mercedes|MBZ-987|István|München
+Volkswagen|VW-741|Károly|Köln
+Suzuki|SZK-852|Tibor|Hága
+Fiat|FAT-963|András|Szentpétervár
+Peugeot|PGT-369|Béla|Dresden
